@@ -4,6 +4,10 @@ title: My Project Timeline
 baseurl: /project-timeline
 linked_posts: true
 
-# Sets the default folder in Prose.io
 prose:
-  rooturl: "_posts"
+	# Sets the default folder in Prose.io
+	rooturl: "_posts"
+	# Sets the default metadata in Prose.io
+ 	metadata:
+		layout: "post"
+		published: true
