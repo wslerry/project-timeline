@@ -3,3 +3,7 @@ permalink: /:year/:month/:day/:title
 title: My Project Timeline
 baseurl: /project-timeline
 linked_posts: true
+
+# Sets the default folder in Prose.io
+prose:
+  rooturl: "_posts"
