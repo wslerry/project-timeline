@@ -12,3 +12,8 @@ The benefits of using a project timeline:
 - Provides an archive for project artifacts
 - Keep clients and team members up to speed with design progress
 - Lives at a URL that doesn't change
+
+## How to create new posts
+
+- Follow Jekyll's [instructions](http://jekyllrb.com/docs/posts/) for creating new posts.
+- Or connect your github account to [prose.io](http://prose.io/) for "a beatifully simple content authoring environment".
