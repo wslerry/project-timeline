@@ -2,4 +2,4 @@ pygments: true
 permalink: /:year/:month/:day/:title
 title: My Project Timeline
 baseurl: /project-timeline
-linked_titles: true
+linked_posts: true
