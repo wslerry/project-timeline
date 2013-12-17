@@ -101,6 +101,8 @@ h3 {
     border-radius: 20px;
     background: #fff;
     border: 5px solid #dddddd; }
+  .tl-content a {
+    color: #222222; }
 
 /* Timestamp */
 .tl-stamp {
